@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "emerson"
+    }
+  },
+  "defaultProject": "emerson",
+  "cli": {
+    "analytics": "16b37925-a1f9-4a82-a117-91ccccd53e69"
+  }
 }
